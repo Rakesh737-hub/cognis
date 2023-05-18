@@ -12,7 +12,7 @@
 	<atom:link href="https://rakesh737-hub.github.io/cognis/courses/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rakesh737-hub.github.io/cognis</link>
 	<description>Best Online Courses</description>
-	<lastBuildDate>Wed, 17 May 2023 09:53:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 May 2023 07:15:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,51 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
+		<title>git</title>
+		<link>https://rakesh737-hub.github.io/cognis/courses/git/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 18 May 2023 07:13:21 +0000</pubDate>
+				<guid isPermaLink="false">https://rakesh737-hub.github.io/cognis/?post_type=courses#038;p=196</guid>
+
+					<description><![CDATA[If you are unable to see any of your files in the GitHub repository even after executing the]]></description>
+										<content:encoded><![CDATA[<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-xsnlu-79elbk h-full dark:bg-gray-800">
+<div class="react-scroll-to-bottom--css-xsnlu-1n7m0yu">
+<div class="flex flex-col items-center text-sm dark:bg-gray-800">
+<div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
+<div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>If you are unable to see any of your files in the GitHub repository even after executing the provided commands, it&#8217;s possible that there might have been an issue during the process. Here are a few suggestions to troubleshoot the problem:</p>
+<ol>
+<li>Double-check the repository URL: Ensure that you are looking at the correct GitHub repository URL. Make sure it matches the repository you intended to push your files to.</li>
+<li>Verify the branch: Confirm that you are viewing the correct branch on GitHub. By default, GitHub displays the <code>main</code> branch, but if you pushed your files to a different branch (e.g., <code>gh-pages</code>), switch to that branch to see the files.</li>
+<li>Review the commit history: Check the commit history on GitHub to see if there are any commits associated with your branch. If the commits are present, it indicates that the changes were successfully pushed to the repository.</li>
+<li>Confirm Git commands execution: Double-check that you correctly executed the Git commands. Verify that you ran <code>git add</code> to stage the files, followed by <code>git commit</code> to create a commit with a descriptive message, and finally <code>git push</code> to push the changes to GitHub.</li>
+<li>Check for any errors: Review the output of the Git commands for any error messages. Pay close attention to any messages related to authentication, remote repository setup, or network connectivity issues.</li>
+<li>Confirm file visibility in local repository: Ensure that the files are present and accessible in your local repository. Navigate to the root directory of your WordPress installation and verify that the files are there.</li>
+</ol>
+<p>If you have reviewed these points and are still unable to see your files in the GitHub repository, please provide more specific information about any error messages or unusual behavior you encountered during the process. Additionally, consider sharing the exact commands you executed so that I can further assist you.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>rakesh_ diet</title>
 		<link>https://rakesh737-hub.github.io/cognis/courses/rakesh_-diet/</link>
 		
