@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Courses &#8211; LMS</title>
-	<atom:link href="https://github.com/Rakesh737-hub/cognis/courses/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/Rakesh737-hub/cognis</link>
+	<atom:link href="https://rakesh737-hub.github.io/cognis/courses/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rakesh737-hub.github.io/cognis</link>
 	<description>Best Online Courses</description>
 	<lastBuildDate>Wed, 17 May 2023 09:53:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>rakesh_ diet</title>
-		<link>https://github.com/Rakesh737-hub/cognis/courses/rakesh_-diet/</link>
+		<link>https://rakesh737-hub.github.io/cognis/courses/rakesh_-diet/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 09:47:47 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/Rakesh737-hub/cognis/?post_type=courses#038;p=195</guid>
+				<guid isPermaLink="false">https://rakesh737-hub.github.io/cognis/?post_type=courses#038;p=195</guid>
 
 					<description><![CDATA[Diet refers to the food and drinks consumed by an individual or a group. It plays a crucial]]></description>
 										<content:encoded><![CDATA[<p><span style="color: #993366;"><strong>Diet</strong> </span></p>
@@ -37,11 +37,11 @@
 			</item>
 		<item>
 		<title>Perfect Diet &#038; Meal Plan</title>
-		<link>https://github.com/Rakesh737-hub/cognis/courses/perfect-diet-meal-plan/</link>
+		<link>https://rakesh737-hub.github.io/cognis/courses/perfect-diet-meal-plan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 14:43:29 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/Rakesh737-hub/cognis/?post_type=courses#038;p=37</guid>
+				<guid isPermaLink="false">https://rakesh737-hub.github.io/cognis/?post_type=courses#038;p=37</guid>
 
 					<description><![CDATA[Diet plan When it comes to discussing a perfect diet and meal plan, it&#8217;s important to consider that]]></description>
 										<content:encoded><![CDATA[<p><span style="color: #ff6600;"><strong>Diet plan</strong></span></p>
